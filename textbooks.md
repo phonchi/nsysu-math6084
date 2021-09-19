@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Textbooks
-permalink: /materials/
+title: textbooks
+permalink: /textbooks/
 ---
 
 <!---{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}--->
