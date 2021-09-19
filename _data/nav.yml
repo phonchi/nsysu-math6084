@@ -15,10 +15,12 @@ items:
   name: Assignments
   icon_class: fas fa-user-graduate
 
+- url: /textbooks/
+  name: Textbooks
+  icon_class: fas fa-book
+
 #- url: /project/
 #  name: Project
 #  icon_class: fas fa-user-graduate
 
-- url: /textbooks/
-  name: textbooks
-  icon_class: fas fa-book
+
