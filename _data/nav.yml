@@ -19,6 +19,6 @@ items:
 #  name: Project
 #  icon_class: fas fa-user-graduate
 
-- url: /texbooks/
-  name: texbooks
+- url: /textbooks/
+  name: textbooks
   icon_class: fas fa-book
