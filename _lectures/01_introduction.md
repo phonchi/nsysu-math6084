@@ -11,5 +11,5 @@ links:
       name: lab
 ---
 **Suggested Readings:**
-- [Readings 1](ISLR Chapter 1)
-- [Readings 2](PSDS Chapter 1)
+- ISLR Chapter 1
+- PSDS Chapter 1
