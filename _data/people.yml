@@ -1,9 +1,13 @@
 instructors:
   - name: 鍾思齊
     profile_pic: /_images/pp/avatar.png
-    webpage: https://phonchi.github.io/
+    webpage: https://math.nsysu.edu.tw/p/406-1183-263491,r2843.php?Lang=zh-tw
 
 teaching_assistants:
   - name: 蔡承翰
     profile_pic: /_images/pp/avatar.png
     #webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+  - name: 王政德
+    profile_pic: /_images/pp/avatar.png
+    #webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+
