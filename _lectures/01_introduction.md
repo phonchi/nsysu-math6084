@@ -7,11 +7,15 @@ thumbnail:
 hide_from_announcments: true
 links: 
     - url: /static_files/presentations/01_Introduction.pdf
-      name: slides
+      name: Slides
     - url: /static_files/presentations/Chapter 1_Lab.ipynb
-      name: lab
+      name: Lab
+    - url: /static_files/presentations/ISLR2.pdf
+      name: Dataset description
+    - url: /static_files/presentations/Data.zip
+      name: Dataset
     - url: /static_files/presentations/NumPy_tutorial.ipynb
-      name: lab
+      name: NumPy tutorial
 ---
 **Suggested Readings:**
 - ISLR Chapter 1
