@@ -10,6 +10,8 @@ links:
       name: slides
     - url: /static_files/presentations/Chapter 1_Lab.ipynb
       name: lab
+    - url: /static_files/presentations/NumPy_tutorial.ipynb
+      name: lab
 ---
 **Suggested Readings:**
 - ISLR Chapter 1
