@@ -18,14 +18,17 @@ permalink: /materials/
 * [Reference solution for the exercise](http://blog.princehonest.com/stat-learning/)
 
 ## Resources
+
 ### Environment
 * [Anaconda](https://www.anaconda.com/products/individual)
 * [Google colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 * [Kaggle notebook](https://www.kaggle.com/docs/notebooks)
+
 ### Dataset search
 * [政府資料開放平台](https://data.gov.tw/)
 * [Kaggle](https://www.kaggle.com/datasets)
 * [Google dataset search](https://datasetsearch.research.google.com/)
+
 ### Learning Python
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Kaggle Python tutorial](https://www.kaggle.com/learn/python)
@@ -34,6 +37,7 @@ permalink: /materials/
 * [Python scientific computing](https://scipy-lectures.org/)
 * [NumPy for R user](http://mathesaurus.sourceforge.net/r-numpy.html)
 * [NumPy for Matlab user](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
+
 ### Learning Markdown
 * [CommonMark](https://commonmark.org/)
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/markdown/)
