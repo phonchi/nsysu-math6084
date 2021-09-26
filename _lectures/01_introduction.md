@@ -6,9 +6,9 @@ tldr:
 thumbnail: 
 hide_from_announcments: true
 links: 
-    - url: /static_files/presentations/lec.zip
+    - url: /static_files/presentations/01_Introduction.pdf
       name: slides
-    - url: /static_files/presentations/code.zip
+    - url: /static_files/presentations/Chapter 1_Lab.ipynb
       name: lab
 ---
 **Suggested Readings:**
