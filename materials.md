@@ -35,9 +35,28 @@ permalink: /materials/
 * [Python for everybody](https://www.py4e.com/)
 * [Python 台灣社群](http://python.org.tw/Python/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8%E5%B0%B1%E4%B8%8A%E6%89%8B)
 * [Python scientific computing](https://scipy-lectures.org/)
+
+### Learning Python libraries
 * [NumPy for R user](http://mathesaurus.sourceforge.net/r-numpy.html)
 * [NumPy for Matlab user](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### Learning Markdown
 * [CommonMark](https://commonmark.org/)
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/markdown/)
+
+## Libraries
+
+### Data manipulation
+* [Pandas](https://pandas.pydata.org/)
+* [NumPy](https://numpy.org/)
+
+### Plotting
+* [Seaborn](https://seaborn.pydata.org/index.html)
+* [plotnine](https://github.com/has2k1/plotnine)
+* [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
+
+### Modeling
+* [Scikit-learn](https://scikit-learn.org/stable/)
+* [statsmodels](https://www.statsmodels.org/stable/index.html)
+* [mlxtend](https://rasbt.github.io/mlxtend/)
