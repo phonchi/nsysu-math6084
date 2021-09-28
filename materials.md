@@ -11,11 +11,11 @@ permalink: /materials/
 * [An Introduction to Statistical Learning with Applications in R. Second Edition](https://www.statlearning.com/)
 * [The Elements of Statistical Learning, Data Mining, Inference, and Prediction. Second Edition.](https://web.stanford.edu/~hastie/ElemStatLearn/)
 * [Practical Statistics for Data Scientists 50+ Essential Concepts Using R and Python Second Edition](https://github.com/gedeck/practical-statistics-for-data-scientists/)
+* [Reference solution for the exercise](http://blog.princehonest.com/stat-learning/)
 
 ## MOOC
 
-* [Slides and video](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-* [Reference solution for the exercise](http://blog.princehonest.com/stat-learning/)
+* [Trevor Hastie and Rob Tibshirani](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
 ## Resources
 
