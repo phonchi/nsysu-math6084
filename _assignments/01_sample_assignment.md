@@ -8,7 +8,7 @@ attachment: /static_files/assignments/Chapter 1_Exercise.ipynb
 <!-- solutions: /static_files/assignments/asg_solutions.pdf -->
 due_event: 
     type: due
-    date: 2021-10-12T23:59:00
+    date: 2021-10-12T12:00:00
     description: 'Assignment #1 due'
 description: '這次的作業總共有 4 大題 (見附檔)'
 ---
