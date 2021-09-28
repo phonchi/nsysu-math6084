@@ -16,6 +16,7 @@ permalink: /materials/
 ## MOOC
 
 * [Trevor Hastie and Rob Tibshirani](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+* [Hamed Hasheminia](https://www.youtube.com/watch?v=3jQs02dbfrI&list=PL06ytJZ4Ak1rXmlvxTyAdOEfiVEzH00IK&index=2)
 
 ## Resources
 
