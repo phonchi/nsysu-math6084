@@ -3,7 +3,7 @@ type: assignment
 date: 2021-09-28T17:28:00
 title: 'Assignment #1 - Sample Assignment'
 <!-- pdf: /static_files/assignments/asg.pdf -->
-ipynb: /static_files/assignments/Chapter 1_Exercise.ipynb
+<!-- ipynb: /static_files/assignments/Chapter 1_Exercise.ipynb -->
 attachment: /static_files/assignments/Chapter 1_Exercise.ipynb
 <!-- solutions: /static_files/assignments/asg_solutions.pdf -->
 due_event: 
