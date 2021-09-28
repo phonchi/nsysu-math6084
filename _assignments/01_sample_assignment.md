@@ -10,5 +10,6 @@ due_event:
     type: due
     date: 2021-10-05T23:59:00
     description: 'Assignment #1 due'
+description: '這次的作業總共有 4 大題 (見附檔)'
 ---
 
