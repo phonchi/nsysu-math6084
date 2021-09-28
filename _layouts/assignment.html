@@ -10,8 +10,11 @@ title: page.title
   </header>
 
   <div>
+    {% if page.description %}
+    <p> {{ page.description }} </p>
+    {% endif %}
     {% if page.due_event %}
-    <span style="font-weight: bold">Due Date: {{ page.due | date: site.dateformat }} {{ page.due_event.date | date: "%H:%M" }}</span>
+    <span style="font-weight: bold">Due Date: {{ page.due_event.date | date: "%A" }} {{ page.due_event.date | date: site.dateformat }}</span>
     {% endif %}
     <p style="font-weight: bold">Download
       {% if page.pdf %}
@@ -25,10 +28,12 @@ title: page.title
       {% endif %}
     </p>
 
+<!--
     <div style="color: gray;">
       <h3>Late Policy</h3>
       {% include late_policy.html %}
     </div>
+-->
   </div>
 
   <br />
