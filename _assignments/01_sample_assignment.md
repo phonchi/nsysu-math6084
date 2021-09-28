@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2021-09-28T17:28:00
-title: 'Assignment #1 - Sample Assignment'
+title: 'Assignment #1'
 <!-- pdf: /static_files/assignments/asg.pdf -->
 <!-- ipynb: /static_files/assignments/Chapter 1_Exercise.ipynb -->
 attachment: /static_files/assignments/Chapter 1_Exercise.ipynb
