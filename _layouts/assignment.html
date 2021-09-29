@@ -13,6 +13,12 @@ title: page.title
     {% if page.description %}
     <p> {{ page.description }} </p>
     {% endif %}
+	
+	<div style="color: red;">
+      <h3>注意事項</h3>
+      {% include hw_policy.html %}
+    </div>
+	
     {% if page.due_event %}
     <span style="font-weight: bold">Due Date: {{ page.due_event.date | date: "%A" }} {{ page.due_event.date | date: site.dateformat }}</span>
     {% endif %}
@@ -28,12 +34,9 @@ title: page.title
       {% endif %}
     </p>
 
-<!--
-    <div style="color: gray;">
-      <h3>Late Policy</h3>
-      {% include late_policy.html %}
-    </div>
--->
+
+
+
   </div>
 
   <br />
