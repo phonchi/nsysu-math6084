@@ -18,4 +18,8 @@ links:
 - ISLR Chapter 2
 - ESL Chapter 2
 - [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) Chapter 2
+- [Just-in-time-compiler](/nsysu-EE1003A/_images/Just-in-time-compiler.ipynb)
+- [MultiCore](/nsysu-EE1003A/_images/MultiCore.ipynb)
+- [GPU](/nsysu-EE1003A/_images/GPU.ipynb)
+- [Video for HPC](https://www.youtube.com/playlist?list=PLHNZtBNWQ-87x20x0lTo26AJiCOUJ8YqP)
 
