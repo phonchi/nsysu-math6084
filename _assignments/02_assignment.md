@@ -2,6 +2,7 @@
 type: assignment
 date: 2021-10-06T22:49:00
 title: 'Assignment #2'
+attachment: /static_files/assignments/Assignment2.ipynb
 due_event: 
     type: due
     date: 2021-10-12T12:00:00
