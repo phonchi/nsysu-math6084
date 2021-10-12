@@ -16,4 +16,5 @@ links:
 - ISLR Chapter 3
 - ESL Chapter 3.1~3.3
 - PSDS Chapter 4
+- [[Recored video]](https://www.youtube.com/watch?v=ZctbL_NkYI0)
 
