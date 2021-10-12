@@ -21,4 +21,4 @@ links:
 - ISLR Chapter 1
 - PSDS Chapter 1
 - [Top 10 Ideas in Statistics That Have Powered the AI Revolution](https://statmodeling.stat.columbia.edu/2021/07/07/top-10-ideas-in-statistics-that-have-powered-the-ai-revolution/)
-- [[Recored video]](https://youtu.be/DmvQVPZBlpo)
+- [[Recorded video]](https://youtu.be/DmvQVPZBlpo)
