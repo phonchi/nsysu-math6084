@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-10-12
+date: 2021-10-19
 title: Classification
 tldr: 
 thumbnail: 
