@@ -14,7 +14,7 @@ links:
 ---
 **Suggested Readings:**
 - ISLR Chapter 6
-- ESL Chapter 7.1~7.7
+- ESL Chapter 7.1~7.7, Chapter3.3-3.4
 - PSDS Chapter 4
 
 
