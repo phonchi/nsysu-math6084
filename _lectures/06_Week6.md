@@ -16,9 +16,9 @@ links:
 - ISLR Chapter 6
 - ESL Chapter 7.1-7.7, Chapter3.3-3.4
 - PSDS Chapter 4
-- [[Midterm 2020 (courtesy of professor Mei-Hui Guo)]](/nsysu-EE1003A/static_files/presentations/Mid_term_2020.zip)
-- [[Midterm 2019 (courtesy of professor Mei-Hui Guo)]](/nsysu-EE1003A/static_files/presentations/Mid_term_2019.zip)
-- [[Midterm 2018 (courtesy of professor Mei-Hui Guo)]](/nsysu-EE1003A/static_files/presentations/Mid_term_2018.zip)
+- [[Midterm 2020 (courtesy of professor Mei-Hui Guo)]](/nsysu-math524/static_files/presentations/Mid_term_2020.zip)
+- [[Midterm 2019 (courtesy of professor Mei-Hui Guo)]](/nsysu-math524/static_files/presentations/Mid_term_2019.zip)
+- [[Midterm 2018 (courtesy of professor Mei-Hui Guo)]](/nsysu-math524/static_files/presentations/Mid_term_2018.zip)
 
 
 
