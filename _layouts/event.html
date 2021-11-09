@@ -1,0 +1,28 @@
+---
+layout: default
+title: page.description
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.description }}</h1>
+  </header>
+
+  <div>
+		
+	<div style="color: red;">
+      <h3>注意事項</h3>
+      {% include hw_policy.html %}
+    </div>
+
+
+
+
+  </div>
+
+  <br />
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
