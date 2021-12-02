@@ -2,7 +2,7 @@
 type: assignment
 date: 2021-12-02T23:17:00
 title: 'Assignment #9'
-attachment: /static_files/assignments/Assignment9.ipynb
+attachment: /static_files/assignments/Assignment9.zip
 due_event: 
     type: due
     date: 2021-12-07T12:00:00
