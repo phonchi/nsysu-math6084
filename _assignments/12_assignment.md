@@ -9,6 +9,6 @@ due_event:
     description: 'Assignment #12 due'
 description: '本週題目一共四大題。<br>
 為 An Introduction to Statistical Learning with Applications in R 課本<br>
-第九章中的 5(g)~(i)、8 和
+第九章中的 5(g)~(i)、8<br>
 第十二章中的 6、8'
 ---
