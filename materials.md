@@ -8,29 +8,40 @@ permalink: /materials/
 
 ## Book
 
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [An Introduction to Statistical Learning with Applications in R. Second Edition](https://www.statlearning.com/)
-* [The Elements of Statistical Learning, Data Mining, Inference, and Prediction. Second Edition.](https://web.stanford.edu/~hastie/ElemStatLearn/)
-* [Practical Statistics for Data Scientists 50+ Essential Concepts Using R and Python Second Edition](https://github.com/gedeck/practical-statistics-for-data-scientists/)
-* [Reference solution for the exercise (R)](http://blog.princehonest.com/stat-learning/)
-* [Reference solution for the exercise (Python)](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning)
-* [Reference solution for the exercise (Python)](https://botlnec.github.io/islp/)
+* [Reference solution for the exercise (Python)](https://github.com/ageron/handson-ml2)
 
-## MOOC
-
-* [Trevor Hastie and Rob Tibshirani](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-* [Hamed Hasheminia](https://www.youtube.com/watch?v=3jQs02dbfrI&list=PL06ytJZ4Ak1rXmlvxTyAdOEfiVEzH00IK&index=2)
 
 ## Resources
+
+### Collection
+* [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
+* [Awesome datascience](https://github.com/academic/awesome-datascience)
+* [AtHomeWithAI](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 
 ### Environment
 * [Anaconda](https://www.anaconda.com/products/individual)
 * [Google colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 * [Kaggle notebook](https://www.kaggle.com/docs/notebooks)
+* [Google Compute Platform](https://cloud.google.com/compute/?hl=zh-tw&utm_source=google&utm_medium=cpc&utm_campaign=japac-TW-all-en-dr-bkws-all-super-trial-e-dr-1009882&utm_content=text-ad-none-none-DEV_c-CRE_505011867580-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Compute%20~%20Compute%20Engine_Global%20gap%20analysis-KWID_43700060665793260-aud-970366092687%3Akwd-79074740958&userloc_9040321-network_g&utm_term=KW_google%20compute%20platform&gclid=Cj0KCQiAxoiQBhCRARIsAPsvo-w6mftRVH4i5i0CzYvKrwngH0vPrsJubKHnVVvteKCtX3e531tx1AAaAjrBEALw_wcB&gclsrc=aw.ds)
+
+## MOOC
+* [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
+* [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
+* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+* [Kaggle Course](https://firefortysix.com/2022/01/12/another-thirty-days-of-machine-learning-with-kaggle-part-1/amp/)
+* [Stanford CS229: Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+* [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+* [Stanford CS224n: Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+* [NTU Machine Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)
 
 ### Dataset search
 * [政府資料開放平台](https://data.gov.tw/)
 * [Kaggle](https://www.kaggle.com/datasets)
 * [Google dataset search](https://datasetsearch.research.google.com/)
+* [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+* [Amazon’s AWS datasets](https://registry.opendata.aws/)
 
 ### Learning Python
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
@@ -56,10 +67,13 @@ permalink: /materials/
 
 ### Plotting
 * [Seaborn](https://seaborn.pydata.org/index.html)
-* [plotnine](https://github.com/has2k1/plotnine)
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
 
 ### Modeling
 * [Scikit-learn](https://scikit-learn.org/stable/)
-* [statsmodels](https://www.statsmodels.org/stable/index.html)
-* [mlxtend](https://rasbt.github.io/mlxtend/)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Keras](https://keras.io/)
+* [Pytorch](https://pytorch.org/)
+
+### Low-code machine learning
+* [PyCaret](https://pycaret.gitbook.io/docs/)
