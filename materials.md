@@ -34,6 +34,7 @@ permalink: /materials/
 * [Stanford CS229: Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [Stanford CS224n: Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+* [NSYSU Statistical Learning and Data Mining](https://phonchi.github.io/nsysu-math524/)
 * [NTU Machine Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)
 
 ### Dataset search
