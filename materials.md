@@ -55,6 +55,7 @@ permalink: /materials/
 * [NumPy for R user](http://mathesaurus.sourceforge.net/r-numpy.html)
 * [NumPy for Matlab user](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Python for Data Analysis](https://github.com/wesm/pydata-book)
 
 ### Learning Markdown
 * [CommonMark](https://commonmark.org/)
