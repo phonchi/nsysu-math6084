@@ -10,6 +10,7 @@ permalink: /materials/
 
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [An Introduction to Statistical Learning with Applications in R. Second Edition](https://www.statlearning.com/)
+* [Machine learning from scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 * [Reference solution for the exercise (Python)](https://github.com/ageron/handson-ml2)
 
 
