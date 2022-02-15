@@ -15,3 +15,4 @@ links:
 ---
 **Suggested Readings:**
 - HMST Chapter 1 and Chapter 2
+- [[Recorded video]](https://www.youtube.com/watch?v=8oivkzhKMZk&ab_channel=phonchichung)
