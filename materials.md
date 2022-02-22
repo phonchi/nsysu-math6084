@@ -27,7 +27,7 @@ permalink: /materials/
 * [Kaggle notebook](https://www.kaggle.com/docs/notebooks)
 * [Google Compute Platform](https://cloud.google.com/compute/?hl=zh-tw&utm_source=google&utm_medium=cpc&utm_campaign=japac-TW-all-en-dr-bkws-all-super-trial-e-dr-1009882&utm_content=text-ad-none-none-DEV_c-CRE_505011867580-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Compute%20~%20Compute%20Engine_Global%20gap%20analysis-KWID_43700060665793260-aud-970366092687%3Akwd-79074740958&userloc_9040321-network_g&utm_term=KW_google%20compute%20platform&gclid=Cj0KCQiAxoiQBhCRARIsAPsvo-w6mftRVH4i5i0CzYvKrwngH0vPrsJubKHnVVvteKCtX3e531tx1AAaAjrBEALw_wcB&gclsrc=aw.ds)
 
-## MOOC
+## MOOC or lectures
 * [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
 * [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
@@ -35,6 +35,7 @@ permalink: /materials/
 * [Stanford CS229: Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [Stanford CS224n: Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+* [Dive into deep learning](https://d2l.ai/)
 * [NSYSU Statistical Learning and Data Mining](https://phonchi.github.io/nsysu-math524/)
 * [NTU Machine Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)
 
