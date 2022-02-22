@@ -13,3 +13,5 @@ links:
 ---
 **Suggested Readings:**
 - HMST Chapter 10 and Chapter 11
+- [[Recorded video for lecture]](https://www.youtube.com/watch?v=cBFxzaxh-xA)
+- [[Recorded video for lab]](https://www.youtube.com/watch?v=bHa_-6uEoj4)
