@@ -6,6 +6,6 @@ attachment: /static_files/assignments/DC_Assignment1.ipynb
 due_event: 
     type: due
     date: 2022-03-15T23:59:00
-    description: 'Assignment #2 due'
+    description: 'Assignment #1 due'
 description: 'We have total three questions in this assignment.'
 ---
