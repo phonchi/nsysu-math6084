@@ -7,6 +7,5 @@ due_event:
     type: due
     date: 2022-03-15T23:59:00
     description: 'Assignment #2 due'
-description: 'We have total three。<br>
-questions in this assignment<br>
+description: 'We have total three questions in this assignment.'
 ---
