@@ -12,4 +12,4 @@ links:
       name: Lab
 ---
 **Suggested Readings:**
-- HMST Chapter 15~16
+- HMST Chapter 15 and Chapter 16
