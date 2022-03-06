@@ -18,6 +18,7 @@ permalink: /materials/
 
 ### Collection
 * [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
+* [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python)
 * [Awesome datascience](https://github.com/academic/awesome-datascience)
 * [AtHomeWithAI](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 
