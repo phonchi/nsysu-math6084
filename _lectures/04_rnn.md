@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-03-08
-title: Recurrent Neura Networks
+title: Recurrent Neural Networks
 tldr: 
 thumbnail: 
 hide_from_announcments: true
