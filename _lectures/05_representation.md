@@ -13,3 +13,5 @@ links:
 ---
 **Suggested Readings:**
 - HMST Chapter 17
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-844RYksFfwaOVwTU4SGijAI)
+
