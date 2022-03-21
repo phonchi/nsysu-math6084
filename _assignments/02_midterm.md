@@ -9,3 +9,4 @@ due_event:
     description: 'Midterm Project due'
 description: 'Please hand in your code and report through cyber university.'
 ---
+- [[Midterm notice]](/nsysu-math604/static_files/assignments/Midterm_notice.pdf)
