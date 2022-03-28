@@ -9,3 +9,4 @@ due_event:
     description: 'Assignment #2 due'
 description: 'We have total of three questions in this assignment.'
 ---
+- [[Dataset for Q1]](https://www.dropbox.com/s/s6dhze7z7xw3n5b/climate.csv?dl=0)
