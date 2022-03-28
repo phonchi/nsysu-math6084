@@ -8,4 +8,6 @@ hide_from_announcments: true
 links: 
 
 ---
+**Suggested Readings:**
+- HMST Chapter 13
 
