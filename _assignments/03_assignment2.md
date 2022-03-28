@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2022-03-28T11:00
-title: 'Assignment #2
+title: 'Assignment #2'
 attachment: /static_files/assignments/DC_Assignment2.ipynb
 due_event: 
     type: due
