@@ -8,4 +8,5 @@ hide_from_announcments: true
 links: 
 
 ---
+- Deep learning with Python, Second Edition Chpater 14
 
