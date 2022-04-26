@@ -13,3 +13,4 @@ links:
 ---
 **Suggested Readings:**
 - HMST Chapter 1
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-86c5JeMsILw4LygMWXGvJEr)
