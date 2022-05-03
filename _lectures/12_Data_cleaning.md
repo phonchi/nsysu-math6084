@@ -14,3 +14,4 @@ links:
 **Suggested Readings:**
 - HMST Chapter 1
 - [[dataset for lab]](https://www.dropbox.com/s/skuqnie43wdpny2/Lab10_Dataset.zip?dl=0)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-87dHnJM-WVav4nZ1vIFR04v)
