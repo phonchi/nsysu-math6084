@@ -14,3 +14,4 @@ links:
 **Suggested Readings:**
 - HMST Chapter 8,9
 - [[dataset for lab]](https://www.dropbox.com/s/snobajzz9261jm3/autos.csv?dl=0)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-85ean7o16ENuTqfeRvNCEWn)
