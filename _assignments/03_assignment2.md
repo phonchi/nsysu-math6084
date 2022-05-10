@@ -3,6 +3,7 @@ type: assignment
 date: 2022-03-28T11:00
 title: 'Assignment #2'
 attachment: /static_files/assignments/DC_Assignment2.ipynb
+solutions: /static_files/assignments/DC_Assignment2_sol.ipynb
 due_event: 
     type: due
     date: 2022-04-26T23:59:00
@@ -10,4 +11,3 @@ due_event:
 description: 'We have total of three questions in this assignment.'
 ---
 - [[Dataset for Q1]](https://www.dropbox.com/s/s6dhze7z7xw3n5b/climate.csv?dl=0)
-- [[Reference Solution]](/nsysu-math604/static_files/assignments/DC_Assignment1_sol.ipynb)
