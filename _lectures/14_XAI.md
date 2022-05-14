@@ -12,4 +12,4 @@ links:
       name: Lab
 ---
 **Suggested Readings:**
-[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
