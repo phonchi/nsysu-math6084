@@ -14,3 +14,4 @@ links:
 **Suggested Readings:**
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [[dataset for lab]](https://www.dropbox.com/s/ppgyhis959w5nlb/Lab12_Dataset.zip?dl=0)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-85MfNTSwzR8YKLmkM_Y-tRm)
