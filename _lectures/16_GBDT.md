@@ -6,6 +6,10 @@ tldr:
 thumbnail: 
 hide_from_announcments: true
 links: 
-
+    - url: /static_files/presentations/14_GBDT.pdf
+      name: Slides
+    - url: /static_files/presentations/14_ensemble.ipynb
+      name: Lab
 ---
 **Suggested Readings:**
+- HMST Chapter 6, 7
