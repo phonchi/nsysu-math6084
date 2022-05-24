@@ -13,3 +13,4 @@ links:
 ---
 **Suggested Readings:**
 - HMST Chapter 1, 19
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-87guUUh5BPOBqRZanB9op8R)
