@@ -13,3 +13,4 @@ links:
 ---
 **Suggested Readings:**
 - HMST Chapter 6, 7
+- [[dataset for lab]](https://www.dropbox.com/s/m0evciju09b5aij/Lab14_Dataste.zip?dl=0)
