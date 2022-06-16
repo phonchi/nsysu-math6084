@@ -3,6 +3,7 @@ type: assignment
 date: 2022-05-23T14:00
 title: 'Assignment #4'
 attachment: /static_files/assignments/DC_Assignment4.ipynb
+solutions: /static_files/assignments/DC_Assignment4_sol.ipynb
 due_event: 
     type: due
     date: 2022-06-14T23:59:00
